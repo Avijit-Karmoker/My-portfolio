@@ -1,0 +1,19 @@
+.contact {
+    background-color: #252934;
+    height: 100vh;
+}
+
+.line {
+    height: 10px;
+    background-color: #fff;
+    width: 150px;
+    margin: auto;
+}
+
+.question{
+    color: #1abc9c;
+}
+
+.form-background {
+    background-color: #1E242C;
+}

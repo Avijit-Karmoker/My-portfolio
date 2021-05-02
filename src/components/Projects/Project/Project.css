@@ -1,0 +1,15 @@
+.project-image{
+    width: 350px;
+}
+
+.project-box{
+    border-radius: 10px;
+    height: 255px;
+    background-color: #ecf0f1;
+}
+
+.project-image img{
+    width: 350px;
+    height: 255px;
+    border-radius: 10px;
+}
